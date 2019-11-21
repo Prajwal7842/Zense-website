@@ -1,0 +1,25 @@
+{
+  "name": "Zense-website",
+  "version": "1.0.0",
+  "description": "A website for Zense@IIITB",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwind build ./assets/styles/input.css -o style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhayu-Das/Zense-website.git"
+  },
+  "keywords": ["Zense"],
+  "contributors": [
+    ""
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhayu-Das/Zense-website/issues"
+  },
+  "homepage": "https://github.com/Shubhayu-Das/Zense-website#readme",
+  "dependencies": {
+    "tailwindcss": "^1.1.3"
+  }
+}
